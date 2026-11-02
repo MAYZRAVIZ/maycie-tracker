@@ -1,7 +1,11 @@
 # Maycie Tracker
 
 
-**Live (GitHub Pages):** https://mayzraviz.github.io/maycie-tracker/
+**Live:** https://maycie-tracker-02388d5f.deed.page/
+
+**Repo:** https://github.com/MAYZRAVIZ/maycie-tracker
+
+**GitHub Pages (pending one-time Settings → Pages → Source → GitHub Actions):** https://mayzraviz.github.io/maycie-tracker/
 
 Daily progress tracking for **Maycie Furniture & Fixture Trading** (Philippines).  
 English UI · Asia/Manila dates · PHP-friendly exports · runs fully offline in a browser.
